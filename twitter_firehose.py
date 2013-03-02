@@ -5,7 +5,6 @@
 import ConfigParser
 
 import tweetstream
-import h5py
 import pymongo
 connection = pymongo.Connection()
 db = connection.tweets
