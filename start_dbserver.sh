@@ -1,3 +1,3 @@
 #! /bin/sh
 
-mongod -f /home/skipper/web-scraping/mongodb.conf
+mongod -f /home/skipper/school/web-scraping/mongodb.conf
